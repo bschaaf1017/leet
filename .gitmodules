@@ -1,0 +1,3 @@
+[submodule "LeetCode_JS_Classic"]
+	path = LeetCode_JS_Classic
+	url = https://github.com/kaeducation/LeetCode_JS_Classic.git
